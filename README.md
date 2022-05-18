@@ -4,7 +4,7 @@ Hi there 👋 welcome to my Github!
 
 **I'm Eduardo M0lina!!** 
 
-- 🔭 I’m currently working on Farmatodo
+- 🔭 I’m currently working on PersonalSoft
 - 🌱 I’m currently learning nestjs and flutter... when I have time!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
