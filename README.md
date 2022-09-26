@@ -4,8 +4,8 @@ Hi there 👋 welcome to my Github!
 
 **I'm Eduardo M0lina!!** 
 
-- 🔭 I’m currently working on PersonalSoft
-- 🌱 I’m currently learning nestjs and flutter... when I have time!
+- 🔭 I’m currently working on Mercado Libre
+- 🌱 I’m currently learning golang and flutter... when I have time!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/eduardo-molina-saltarin-47a2ab135
