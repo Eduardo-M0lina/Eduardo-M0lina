@@ -10,7 +10,7 @@ Hi there 👋 welcome to my Github!
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/eduardo-molina-saltarin-47a2ab135
 - ⚡ Fun fact: ...
-- :computer: Favorite editor: VS Code
+- :computer: Favorite editor: Intellij
 
 <hr />
 
